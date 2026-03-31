@@ -53,7 +53,7 @@ python train_resnet.py
 
 ### Inference (TTA Prediction)
 
-To generate the final `submission.csv` using the best saved checkpoint:
+To generate the final `prediction.csv` using the best saved checkpoint:
 
 ```bash
 python predict.py
